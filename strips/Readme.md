@@ -1,7 +1,7 @@
 ﻿AI Planning with STRIPS
 =======================
 
-Basic AI planning with STRIPS and PDDL. For details, see the [introduction](https://github.com/primaryobjects/strips) or try the online [demo](https://stripsfiddle.herokuapp.com).
+AI automated planning with STRIPS and PDDL. See the [introduction](https://github.com/primaryobjects/strips), read the [tutorial](http://www.primaryobjects.com/2015/11/06/artificial-intelligence-planning-with-strips-a-gentle-introduction/), or try the online [editor](https://stripsfiddle.herokuapp.com).
 
 Install
 -------
@@ -222,5 +222,5 @@ License
 
 MIT
 
-Copyright (c) 2015 Kory Becker
+Copyright (c) 2017 Kory Becker
 http://primaryobjects.com/kory-becker
