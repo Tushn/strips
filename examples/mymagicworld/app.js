@@ -23,7 +23,7 @@ strips.load('./domain.pddl', './problem.pddl', function(domain, problem) {
 var strips = require('strips'), solutions;
 
 // Load the domain and problem.
-strips.load('./domain.pddl', './problem3.pddl', function(domain, problem) {
+strips.load('./domain2.pddl', './problem3.pddl', function(domain, problem) {
     // Run the problem against the domain.
     solutions = strips.solve(domain, problem);
 
